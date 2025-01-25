@@ -159,7 +159,10 @@ h6 {
 
 .header .logo img {
   max-height: 36px;
-  margin-right: 8px;
+  margin-right: 10px;
+  margin-left: 100px;
+  margin-top: 6px;
+  transform: scale(1.5); /* 1.2 ka matlab 20% zoom */
 }
 
 .header .logo h1 {
